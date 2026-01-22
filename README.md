@@ -117,7 +117,7 @@ Example output:
 
 1. Make sure you have Python 3 installed.
 2. Clone this repository:
-``git clone https://github.com/your-username/pandas-practice.git
+``git clone https://github.com/PedroMagno07/pandas-data-analysis.git
 cd pandas-practice``
 3. Install the required dependencies:
 pip install pandas matplotlib
