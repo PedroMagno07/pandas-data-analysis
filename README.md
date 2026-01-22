@@ -41,28 +41,6 @@ The project uses fictional sales and product datasets to demonstrate data cleani
 
 ---
 
-## 📂 Project Structure
-
-pandas-practice/
-├── data/
-│ ├── raw/
-│ │ ├── vendas.csv
-│ │ └── produtos.csv
-│ │
-│ └── figures/
-│ └── faturamento_categoria.png
-│
-├── src/
-│ ├── 01-basic-KPIs.py
-│ ├── 02-data-cleaning.py
-│ ├── 03-sales-insights.py
-│ └── 04-merge-visualization.py
-│
-└── README.md
-
-
----
-
 ## 📑 Scripts Overview
 
 ### 01 – Basic KPIs
